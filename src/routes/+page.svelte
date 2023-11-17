@@ -11,8 +11,8 @@ import Image from "src/images/logo.png"
       <input type="text" id="fname" name="firstname" placeholder="E-mailadres of telefoonnummer...">
       <input type="text" id="lname" name="lastname" placeholder="Wachtwoord...">
   
-      <input type="submit" value="Submit">
-      <input type="submit" value="Submit">
+      <input type="submit" value="Log in">
+      <input type="submit" value="Sign up">
     </form>
   </div>
 </body>
